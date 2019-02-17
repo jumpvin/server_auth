@@ -2,6 +2,12 @@
   "name": "sec",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node server/server"
+  },
+  "engines": {
+    "node":"8.10.0"
+  },
   "author": "Vincent Olvierio",
   "license": "MIT",
   "dependencies": {
